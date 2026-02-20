@@ -154,9 +154,5 @@ This analysis provides decision-support insights for:
 * **products** → product attributes
 * **account** → account-related information
 
----
 
-## 🚀 Author
 
-komal<br>
-Data Analytics Learner | Aspiring Data Scientist
